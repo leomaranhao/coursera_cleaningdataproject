@@ -10,9 +10,13 @@ The dataset used in this project was part of the following publication:
 ## Objectives
 
 The objective of this project was to transform the original dataset, from the publication above, into a tidy dataset following certain rules: 
+
 1. The training and the test datasets should be merged into one dataset.
+
 2. Only the average of measurements on the mean and standard deviation of each variable for each activity and each subject should be present. 
+
 3. Descriptive activity names should be used to name the activities in the data set.
+
 4. Data should be appropriately labeled with descriptive variable names. 
 
 ## The Original Dataset 
