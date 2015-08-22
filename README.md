@@ -3,6 +3,8 @@ Project related to the Coursera course "Getting and Cleaning Data"
 
 ## Explanation about the workings of the script *run_analysis.R*
 
+In order to get this script working you have to unzip the dataset into your R working directory. After unpacking the zip file you should see the directory **UCI HAR Dataset** under your R working directory.
+
 ### Line 1:
 I got the working directory so I could go back to it 
 
